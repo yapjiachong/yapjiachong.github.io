@@ -5,7 +5,7 @@
 
 #a1{
     text-align: center;
-    background-image: url("image/giphy.gif");
+    background-image: url("/giphy.gif");
     background-size: 15%;
     background-repeat: repeat;
     width: 100%;
@@ -14,7 +14,7 @@
 
 #a2{
     text-align: center;
-    background-image: url("image/dancing-voting-day.gif");
+    background-image: url("/dancing-voting-day.gif");
     background-size: 25%;
     background-repeat: repeat;
     width: 100%;
@@ -22,7 +22,7 @@
 }
 
 header{
-    font-size:15em;
+    font-size:5em;
     color:gold;
     margin-bottom: 200px;
 }
@@ -54,7 +54,7 @@ header{
     margin-right: 30%;
     height: 7%;
     background-color: aqua;
-    font-size: 8em;
+    font-size: 3em;
 }
 
 p{
