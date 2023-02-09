@@ -1,0 +1,78 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+#a1{
+    text-align: center;
+    background-image: url("image/giphy.gif");
+    background-size: 15%;
+    background-repeat: repeat;
+    width: 100%;
+    height: 100%;
+}
+
+#a2{
+    text-align: center;
+    background-image: url("image/dancing-voting-day.gif");
+    background-size: 25%;
+    background-repeat: repeat;
+    width: 100%;
+    height: 100%;
+}
+
+header{
+    font-size:15em;
+    color:gold;
+    margin-bottom: 200px;
+}
+
+.abc{
+    float: left;
+    display: flex;
+    justify-content: center;
+}
+
+.abc1{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10%;
+}
+
+.efg{
+    float: left;
+    margin-top: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+
+    justify-content: center;
+}
+
+.btn{
+    margin-left: 30%;
+    margin-right: 30%;
+    height: 7%;
+    background-color: aqua;
+    font-size: 8em;
+}
+
+p{
+    color:darkslateblue;
+}
+
+a:link { 
+    text-decoration: none; 
+}
+
+
+
+#case{
+    padding-top: 40%;
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10%;
+}
+
+
